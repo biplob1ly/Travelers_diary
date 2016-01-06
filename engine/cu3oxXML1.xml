@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cu3ox>
+<Settings>
+  <imageWidth>640</imageWidth>
+  <imageHeight>426</imageHeight>
+  <segments>5</segments>
+  <tweenTime>1.2</tweenTime>
+  <tweenDelay>0.1</tweenDelay>
+  <tweenType>easeInOutBack</tweenType>
+  <zDistance>0</zDistance>
+  <expand>20</expand>
+  <innerColor>0x111111</innerColor>
+  <textBackground>0x333333</textBackground>
+  <startBackground>0xcccccc</startBackground>
+  <noLogo>0</noLogo>
+  <shadowDarkness>100</shadowDarkness>
+  <textDistance>3</textDistance>
+  <autoplay>3</autoplay>
+  <rDirection>random</rDirection>
+  <borderRadius>16</borderRadius>
+  <descriptionWidth>610</descriptionWidth>
+  <descriptionHeight>60</descriptionHeight>
+  <descriptionOffset>356</descriptionOffset>
+  <descriptionType>fade</descriptionType>
+  <logoText>cu3ox.com</logoText>
+  <logoLink>http://cu3ox.com</logoLink>
+  <noShadow>0</noShadow>
+  <showControls>true</showControls>
+  <startLogo></startLogo>
+  <loop>1</loop>
+  <sound></sound>
+</Settings>
+<Image Filename="1.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+<Text>
+<headline>village</headline>
+<paragraph>It's a beautiful place.</paragraph>
+</Text>
+</Image>
+<Image Filename="2.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+<Text>
+<headline>sunset</headline>
+<paragraph>It's a beautiful place.</paragraph>
+</Text>
+</Image>
+<Image Filename="3.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+<Text>
+<headline>lily</headline>
+<paragraph>It's a beautiful place.</paragraph>
+</Text>
+</Image>
+<Image Filename="4.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+<Text>
+<headline>pond</headline>
+<paragraph>It's a beautiful place.</paragraph>
+</Text>
+</Image>
+<Image Filename="5.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+<Text>
+<headline>tiger</headline>
+<paragraph>It's a beautiful place.</paragraph>
+</Text>
+</Image>
+</Cu3ox>
